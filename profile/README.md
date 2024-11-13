@@ -1,11 +1,15 @@
 ## Hi there 👋
 
-I have here some applications.
+I have here some of my applications.
+
+At [my personal github](https://github.com/avmesquita), I will maintain studies and tests.
+
+At this repositories, I will maintain stable software, some in development stage and some archived.
 
 Did you like any of them?
 
 Do you think any of these solutions could be your path?
 
-What do you think about contacting me, talking about your needs and who knows, maybe your solution is closer than you think.
+If you need help with software development, call me.
 
 (Andre Mesquita.com)
