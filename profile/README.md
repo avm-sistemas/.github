@@ -18,10 +18,6 @@ If you need help with software development, call me.
 
 <div>&nbsp;</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=avmesquita&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div>&nbsp;</div>
-
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=avmesquita&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avmesquita&langs_count=6&layout=compact&theme=vision-friendly-dark">
