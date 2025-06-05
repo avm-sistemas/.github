@@ -12,7 +12,6 @@ Do you think any of these solutions could be your path?
 
 If you need help with software development, call me.
 
-(Andre Mesquita.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avmesquita&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
 
