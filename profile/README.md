@@ -29,3 +29,5 @@ If you need help with software development, call me.
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=avmesquita&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+<!-- GitAds-Verify: SCUA8R54AZ4EZP31EOIXKZKC3JN468P7 -->
