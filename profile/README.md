@@ -1,10 +1,10 @@
 ##  <img src="https://github.com/user-attachments/assets/587202f3-466a-4fe4-90d7-a0d60b4fe353" style="width:40px;"> AVM Sistemas
 
-I have here some of my applications.
+I have here some of my public applications.
 
 At [my personal github](https://github.com/avmesquita), I will maintain studies and tests.
 
-At this repositories, I will maintain stable software, some in development stage and some archived.
+At this repositories, I will maintain stable software, some in development stage, some archived and some opensource.
 
 Did you like any of them?
 
@@ -12,6 +12,9 @@ Do you think any of these solutions could be your path?
 
 If you need help with software development, call me.
 
+<p align="center">
+  <a href="">avmsistemas.net</a>
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avmesquita&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
 
