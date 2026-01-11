@@ -12,8 +12,6 @@ Do you think any of these solutions could be your path?
 
 If you need help with software development, call me.
 
-<p align="center">
-  <a href="">avmsistemas.net</a>
-</p>
+Visit <a href="https://avmsistemas.net">avmsistemas.net</a>
 
 <!-- GitAds-Verify: SCUA8R54AZ4EZP31EOIXKZKC3JN468P7 -->
